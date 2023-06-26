@@ -1,1 +1,16 @@
-
+{
+  "name": "Kartik Awadh Yadav",
+  "bio": "Undergraduate student @Thapar University pursuing career in AI/ML.",
+"links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/awadh_kartik",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Follow me on Instagram",
+      "url": "https://instagram.com/kartikkyadavvvv?igshid=ZDc4ODBmNjlmNQ==",
+      "icon": "FaInstagram"
+    }
+  ]
+}
